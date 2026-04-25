@@ -41,14 +41,23 @@ I am a developer passionate about bridging the gap between clean, responsive web
 </div>
 
 ---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SheersakSaha15E&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheersakSaha15&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sheersak.1506@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/sheersak-saha-5922903a4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
