@@ -44,7 +44,7 @@ I am a developer passionate about bridging the gap between clean, responsive web
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheersakSaha15E&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SheersakSaha15&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheersakSaha15&theme=radical" alt="GitHub Streak" />
 </div>
