@@ -222,7 +222,7 @@ The frontend is built in React with a component-driven architecture, rendering a
 ## Current Focus
 
 ```yaml
-Current Focus — 2024:
+Current Focus — 2026:
 
   Learning:
     - TensorFlow and deep learning methods for practical ML applications
