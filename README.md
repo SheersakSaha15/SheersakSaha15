@@ -14,10 +14,10 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/SheersakSaha"><img src="https://img.shields.io/badge/Portfolio-Premium-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://github.com/SheersakSaha15"><img src="https://img.shields.io/badge/Portfolio-Premium-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio Button" /></a>
   <a href="https://linkedin.com/in/sheersaksaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
   <a href="mailto:sheersak.saha.2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-violet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  <a href="https://github.com/SheersakSaha"><img src="https://img.shields.io/badge/GitHub-Profile-indigo?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
+  <a href="https://github.com/SheersakSaha15"><img src="https://img.shields.io/badge/GitHub-Profile-indigo?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </div>
 
 <br />
@@ -95,7 +95,7 @@ A localized full-stack navigation service engineered to resolve micro-routing ch
 | **Performance** | Optimized geospatial queries utilizing non-relational document structures for real-time rendering |
 | **Security** | API endpoint restriction, sanitized inputs, and structured access mechanisms |
 | **Impact** | Drastically minimizes navigation latency for new students and visiting professionals |
-| **Repository** | [View Source Code](https://github.com/SheersakSaha) |
+| **Repository** | [View Source Code](https://github.com/SheersakSaha15) |
 
 ### Engineering Overview
 SmartCampus bypasses generic flat coordinate systems by establishing a dynamic graph network within MongoDB to map physical infrastructure, departments, and pedestrian walkways. The React-driven interface guarantees seamless real-time rendering on mobile viewports, enabling fluid exploration on the ground. By decoupling backend route computations from frontend rendering threads, the architecture preserves responsive frame-rates during location state transitions.
@@ -114,7 +114,7 @@ A frontend engineering initiative focused on solving complex layout shifts, z-in
 | **Performance** | Minimized layout reflows and optimized critical rendering path |
 | **Security** | Protected DOM manipulation preventing cross-site scripting vulnerabilities |
 | **Impact** | Ensures 100% layout fidelity across varying aspect ratios and device orientations |
-| **Repository** | [View Source Code](https://github.com/SheersakSaha) |
+| **Repository** | [View Source Code](https://github.com/SheersakSaha15) |
 
 ### Engineering Overview
 This project strictly targets the constraints of mobile responsiveness and UI perfection. Through systematic debugging in browser developer tools, it addresses persistent layout glitches, overlapping interface elements, and navigation bar collapses. The resulting component library establishes a robust z-index hierarchy and fluid flex/grid fallback models.
@@ -178,15 +178,15 @@ This project strictly targets the constraints of mobile responsiveness and UI pe
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SheersakSaha&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SheersakSaha15&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheersakSaha&theme=tokyonight" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheersakSaha15&theme=tokyonight" alt="Streak Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheersakSaha&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheersakSaha15&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -197,7 +197,7 @@ This project strictly targets the constraints of mobile responsiveness and UI pe
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SheersakSaha&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SheersakSaha15&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -205,7 +205,7 @@ This project strictly targets the constraints of mobile responsiveness and UI pe
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheersakSaha&theme=tokyonight&bg_color=1a1b26&color=9061F9&line=5850ec&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheersakSaha15&theme=tokyonight&bg_color=1a1b26&color=9061F9&line=5850ec&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
@@ -213,7 +213,7 @@ This project strictly targets the constraints of mobile responsiveness and UI pe
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/SheersakSaha/SheersakSaha/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://cdn.jsdelivr.net/gh/SheersakSaha/SheersakSaha@output/github-contribution-grid-snake.svg'" />
+  <img src="https://github.com/SheersakSaha15/SheersakSaha15/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://cdn.jsdelivr.net/gh/SheersakSaha15/SheersakSaha15@output/github-contribution-grid-snake.svg'" />
 </div>
 
 ---
