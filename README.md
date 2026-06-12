@@ -189,7 +189,7 @@ The frontend is built in React with a component-driven architecture, rendering a
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SheersakSaha15&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=A855F7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SheersakSaha15&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
